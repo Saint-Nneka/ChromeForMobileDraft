@@ -7,6 +7,41 @@
 [**Table Of Content**](Table.md)
 
 
+<!-- vscode-markdown-toc -->
+* 1. [Introduction](#Introduction)
+	* 1.1. [Overview of Google Chrome for Mobile](#OverviewofGoogleChromeforMobile)
+	* 1.2. [Why Use Google Chrome on Your Phone?](#WhyUseGoogleChromeonYourPhone)
+	* 1.3. [Key Features of Google Chrome for Mobile](#KeyFeaturesofGoogleChromeforMobile)
+* 2. [How to Get Started with Google Chrome for Mobile](#HowtoGetStartedwithGoogleChromeforMobile)
+	* 2.1. [:arrow_down:Downloading Google Chrome for Mobile](#arrow_down:DownloadingGoogleChromeforMobile)
+	* 2.2. [:baggage_claim:Installing Google Chrome for Mobile](#baggage_claim:InstallingGoogleChromeforMobile)
+	* 2.3. [:nut_and_bolt:Setting up Google Chrome on Your Mobile](#nut_and_bolt:SettingupGoogleChromeonYourMobile)
+* 3. [Using Google Chrome on your Mobile Device!](#UsingGoogleChromeonyourMobileDevice)
+	* 3.1. [:compass:Basic navigation using the address bar, back button, and tabs](#compass:Basicnavigationusingtheaddressbarbackbuttonandtabs)
+	* 3.2. [:bookmark:Managing bookmarks and history](#bookmark:Managingbookmarksandhistory)
+* 4. [How to browse the internet on your phone using Google Chrome](#HowtobrowsetheinternetonyourphoneusingGoogleChrome)
+	* 4.1. [:satellite:Web page and multimedia content](#satellite:Webpageandmultimediacontent)
+	* 4.2. [:mag:Scrolling, resizing, and zooming in and out](#mag:Scrollingresizingandzoominginandout)
+	* 4.3. [:file_folder:Managing downloads and file types](#file_folder:Managingdownloadsandfiletypes)
+* 5. [Advanced Features of Google Chrome for Mobile](#AdvancedFeaturesofGoogleChromeforMobile)
+	* 5.1. [:eyeglasses:Incognito mode for private browsing](#eyeglasses:Incognitomodeforprivatebrowsing)
+	* 5.2. [:globe_with_meridians:Synchronizing data between devices](#globe_with_meridians:Synchronizingdatabetweendevices)
+	* 5.3. [:wrench:Customizing your options and settings](#wrench:Customizingyouroptionsandsettings)
+* 6. [Troubleshooting Google Chrome for Mobile](#TroubleshootingGoogleChromeforMobile)
+	* 6.1. [:triangular_flag_on_post:Common problems and error messages](#triangular_flag_on_post:Commonproblemsanderrormessages)
+	* 6.2. [:question:Getting help and support](#question:Gettinghelpandsupport)
+* 7. [:x:Uninstall Google Chrome from Your Mobile Device](#x:UninstallGoogleChromefromYourMobileDevice)
+* 8. [Conclusion](#Conclusion)
+* 9. [Future developments and updates for Google Chrome for Mobile](#FuturedevelopmentsandupdatesforGoogleChromeforMobile)
+
+<!-- vscode-markdown-toc -->
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
 ##  1. <a name='Introduction'></a>Introduction
 
 ###  1.1. <a name='OverviewofGoogleChromeforMobile'></a>Overview of Google Chrome for Mobile
