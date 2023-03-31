@@ -24,3 +24,11 @@
 * 7. [:x:Uninstall Google Chrome from Your Mobile Device](#x:UninstallGoogleChromefromYourMobileDevice)
 * 8. [Conclusion](#Conclusion)
 * 9. [Future developments and updates for Google Chrome for Mobile](#FuturedevelopmentsandupdatesforGoogleChromeforMobile)
+
+<!-- vscode-markdown-toc -->
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
