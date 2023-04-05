@@ -13,24 +13,24 @@
 	* 1.2. [Why Use Google Chrome on Your Phone?](#WhyUseGoogleChromeonYourPhone)
 	* 1.3. [Key Features of Google Chrome for Mobile](#KeyFeaturesofGoogleChromeforMobile)
 * 2. [How to Get Started with Google Chrome for Mobile](#HowtoGetStartedwithGoogleChromeforMobile)
-	* 2.1. [Downloading Google Chrome for Mobile](DownloadingGoogleChromeforMobile)
-	* 2.2. [Installing Google Chrome for Mobile](InstallingGoogleChromeforMobile)
-	* 2.3. [Setting up Google Chrome on Your Mobile](SettingupGoogleChromeonYourMobile)
+	* 2.1. [Downloading Google Chrome for Mobile](#DownloadingGoogleChromeforMobile)
+	* 2.2. [Installing Google Chrome for Mobile](#InstallingGoogleChromeforMobile)
+	* 2.3. [Setting up Google Chrome on Your Mobile](#SettingupGoogleChromeonYourMobile)
 * 3. [Using Google Chrome on your Mobile Device!](#UsingGoogleChromeonyourMobileDevice)
-	* 3.1. [Basic navigation using the address bar, back button, and tabs](Basicnavigationusingtheaddressbarbackbuttonandtabs)
-	* 3.2. [Managing bookmarks and history](Managingbookmarksandhistory)
+	* 3.1. [Basic navigation using the address bar, back button, and tabs](#Basicnavigationusingtheaddressbarbackbuttonandtabs)
+	* 3.2. [Managing bookmarks and history](#Managingbookmarksandhistory)
 * 4. [How to browse the internet on your phone using Google Chrome](#HowtobrowsetheinternetonyourphoneusingGoogleChrome)
-	* 4.1. [Web page and multimedia content](Webpageandmultimediacontent)
-	* 4.2. [Scrolling, resizing, and zooming in and out](Scrollingresizingandzoominginandout)
-	* 4.3. [Managing downloads and file types](Managingdownloadsandfiletypes)
+	* 4.1. [Web page and multimedia content](#Webpageandmultimediacontent)
+	* 4.2. [Scrolling, resizing, and zooming in and out](#Scrollingresizingandzoominginandout)
+	* 4.3. [Managing downloads and file types](#Managingdownloadsandfiletypes)
 * 5. [Advanced Features of Google Chrome for Mobile](#AdvancedFeaturesofGoogleChromeforMobile)
-	* 5.1. [Incognito mode for private browsing](Incognitomodeforprivatebrowsing)
-	* 5.2. [Synchronizing data between devices](Synchronizingdatabetweendevices)
-	* 5.3. [Customizing your options and settings](Customizingyouroptionsandsettings)
+	* 5.1. [Incognito mode for private browsing](#Incognitomodeforprivatebrowsing)
+	* 5.2. [Synchronizing data between devices](#Synchronizingdatabetweendevices)
+	* 5.3. [Customizing your options and settings](#Customizingyouroptionsandsettings)
 * 6. [Troubleshooting Google Chrome for Mobile](#TroubleshootingGoogleChromeforMobile)
-	* 6.1. [Common problems and error messages](Commonproblemsanderrormessages)
-	* 6.2. [Getting help and support](Gettinghelpandsupport)
-* 7. [Uninstall Google Chrome from Your Mobile Device](UninstallGoogleChromefromYourMobileDevice)
+	* 6.1. [Common problems and error messages](#Commonproblemsanderrormessages)
+	* 6.2. [Getting help and support](#Gettinghelpandsupport)
+* 7. [Uninstall Google Chrome from Your Mobile Device](#UninstallGoogleChromefromYourMobileDevice)
 * 8. [Conclusion](#Conclusion)
 * 9. [Future developments and updates for Google Chrome for Mobile](#FuturedevelopmentsandupdatesforGoogleChromeforMobile)
 
@@ -78,12 +78,12 @@ After downloading, click on the `"Open"` button to start the app. Then, follow t
 ###  2.3. <a name='nut_and_bolt:SettingupGoogleChromeonYourMobile'></a>:nut_and_bolt:Setting up Google Chrome on Your Mobile
 Once the insallation is finished, you can set it up by either [creating a new account](https://support.google.com/accounts/answer/27441) or [signing in with an existing Google account](https://support.google.com/chrome/answer/185277). This will allow you to [syncronize your bookmarks, history, and other settings across all your devices.](https://support.google.com/chrome/answer/165139) 
 
-![Google chrome settings for mobile](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680696141/tech%20assign%201/Google_chrome_settings_for_mobile_qluosp.png) 
+[Google chrome settings for mobile](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680696141/tech%20assign%201/Google_chrome_settings_for_mobile_qluosp.png) 
 Then, you can customize your settings and preferences by clicking on the (1) `three dots` in the top right corner of the screen by selecting (2)`"Settings."`
 
 ##  3. <a name='UsingGoogleChromeonyourMobileDevice'></a>Using Google Chrome on your Mobile Device!
 
-![Search, browse, return, and navigate between tabs](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680700684/tech%20assign%201/Search_browse_return_and_navigate_between_tabs_axgf5y.png)
+[Search, browse, return, and navigate between tabs](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680700684/tech%20assign%201/Search_browse_return_and_navigate_between_tabs_axgf5y.png)
 
 ###  3.1. <a name='compass:Basicnavigationusingtheaddressbarbackbuttonandtabs'></a>:compass:Basic navigation using the address bar, back button, and tabs
 
@@ -95,7 +95,7 @@ Select (7) `History` or (8) `Bookmark` from the three dots at the top right cor
 
 ##  4. <a name='HowtobrowsetheinternetonyourphoneusingGoogleChrome'></a>How to browse the internet on your phone using Google Chrome
 
-![Browse, Resize, Manage Downloads ](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680701417/tech%20assign%201/Browse_Resize_Manage_Downloads_xrnvdd.png)
+[Browse, Resize, Manage Downloads ](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680701417/tech%20assign%201/Browse_Resize_Manage_Downloads_xrnvdd.png)
 
 ###  4.1. <a name='satellite:Webpageandmultimediacontent'></a>:satellite:Web page and multimedia content 
 You can browse web pages and multimedia content using three optiions;
@@ -116,7 +116,7 @@ To change your download settings, click on the `settings icon` at the top of the
 
 ##  5. <a name='AdvancedFeaturesofGoogleChromeforMobile'></a>Advanced Features of Google Chrome for Mobile
 
-![Advanced settings of Google Chrome for mobile devices](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680702297/tech%20assign%201/Advanced_settings_of_Google_Chrome_for_mobile_devices_z7sdo3.png)
+[Advanced settings of Google Chrome for mobile devices](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680702297/tech%20assign%201/Advanced_settings_of_Google_Chrome_for_mobile_devices_z7sdo3.png)
 
 ###  5.1. <a name='eyeglasses:Incognitomodeforprivatebrowsing'></a>:eyeglasses:Incognito mode for private browsing 
 Click on the three dots at the top right corner of your screen and choose (13) `"New Incognito Tab"` to activate the incognito mode. If you want to opt out of the incognito window, create a normal tab by clicking on `"New tab"` just above the New Incognito Tab.
