@@ -79,6 +79,7 @@ After downloading, click on the `"Open"` button to start the app. Then, follow t
 Once the insallation is finished, you can set it up by either [creating a new account](https://support.google.com/accounts/answer/27441) or [signing in with an existing Google account](https://support.google.com/chrome/answer/185277). This will allow you to [syncronize your bookmarks, history, and other settings across all your devices.](https://support.google.com/chrome/answer/165139) 
 
 ![Google chrome settings for mobile](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680696141/tech%20assign%201/Google_chrome_settings_for_mobile_qluosp.png) 
+
 Then, you can customize your settings and preferences by clicking on the (1) `three dots` in the top right corner of the screen by selecting (2)`"Settings."`
 
 ##  3. <a name='UsingGoogleChromeonyourMobileDevice'></a>Using Google Chrome on your Mobile Device!
