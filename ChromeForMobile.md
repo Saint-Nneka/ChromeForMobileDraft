@@ -84,46 +84,46 @@ Then, you can customize your settings and preferences by clicking on the (1) `th
 
 ##  3. <a name='UsingGoogleChromeonyourMobileDevice'></a>Using Google Chrome on your Mobile Device!
 
-![Search, browse, return, and navigate between tabs](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680700684/tech%20assign%201/Search_browse_return_and_navigate_between_tabs_axgf5y.png)
+![Search, browse, return, and navigate between tabs](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682079675/tech%20assign%201/Search_browse_return_and_navigate_between_tabs_tla5qm.png)
 
 ###  3.1. <a name='compass:Basicnavigationusingtheaddressbarbackbuttonandtabs'></a>:compass:Basic navigation using the address bar, back button, and tabs
 
-Use the (3) `address bar` to type in web addresses, the (4) `"<"` to return to previous pages, and (5) `tabs` to move between different web pages when using Google Chrome for Mobile. To launch a new tab, click on the (6) `"+"` button at the top right corner of the screen.
+Use the (1) `address bar` to type in web addresses, the (2) `"<"` to return to previous pages, and (3) `tabs` to move between different web pages when using Google Chrome for Mobile. To launch a new tab, click on the (4) `"+"` button at the top right corner of the screen.
 
 ###  3.2. <a name='bookmark:Managingbookmarksandhistory'></a>:bookmark:Managing bookmarks and history
 <!-- add image to illustrate -->
-Select (7) `History` or (8) `Bookmark` from the three dots at the top right corner of the screen. From there, you can access, update, and delete your bookmarks and history.
+Select (5) `History` or (6) `Bookmark` from the three dots at the top right corner of the screen. From there, you can access, update, and delete your bookmarks and history.
 
 ##  4. <a name='HowtobrowsetheinternetonyourphoneusingGoogleChrome'></a>How to browse the internet on your phone using Google Chrome
 
-![Browse, Resize, Manage Downloads ](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680701417/tech%20assign%201/Browse_Resize_Manage_Downloads_xrnvdd.png)
+![Browse, Resize, Manage Downloads ](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682081501/tech%20assign%201/Browse_Resize_Manage_Downloads_s2awwe.png)
 
 ###  4.1. <a name='satellite:Webpageandmultimediacontent'></a>:satellite:Web page and multimedia content 
 You can browse web pages and multimedia content using three optiions;
-1. Type the web address into the address bar and click on it, or click `"Go"` on your mobile device. 
-1. Press and hold the (9) `microphone icon` on by the right side of your search bar, then speak into it to search with voice. Release your hold once you are done speaking so that chrome can commence your search.
-1. Click on the (10) `image icon` beside the microphone on the search bar to use an image for your search. This action will take you to the gallery of your mobile device, from where you can select an image for your search. 
+1. Type the web address into the (1) `address bar` and click on it, or click `"Go"` on your mobile device. 
+1. Press and hold the (2) `microphone icon` on by the right side of your search bar, then speak into it to search with voice. Release your hold once you are done speaking so that chrome can commence your search.
+1. Click on the (3) `image icon` beside the microphone on the search bar to use an image for your search. This action will take you to the gallery of your mobile device, from where you can select an image for your search. 
 
 
 The content which you have searched up can then be viewed by scrolling through the page.
 
 ###  4.2. <a name='mag:Scrollingresizingandzoominginandout'></a>:mag:Scrolling, resizing, and zooming in and out 
-Use two of your fingers to pinch in or out on your screen to (11) `zoom in or out` on a web page. 
+Use two of your fingers to pinch in or out on your screen to (4) `zoom in or out` on a web page. 
 To scroll through a page, swipe up or down on the screen.
 
 ###  4.3. <a name='file_folder:Managingdownloadsandfiletypes'></a>:file_folder:Managing downloads and file types
-Click on the three dots at the top right corner of your screen and choose (12) `"Downloads"`. Here you can access the different file types that you have downloaded. You can view, pause, continue, or cancel downloads as you wish. 
+Click on the three dots at the top right corner of your screen and choose (5) `"Downloads"`. Here you can access the different file types that you have downloaded. You can view, pause, continue, or cancel downloads as you wish. 
 To change your download settings, click on the `settings icon` at the top of the 'downloads' page and exploe your options.
 
 ##  5. <a name='AdvancedFeaturesofGoogleChromeforMobile'></a>Advanced Features of Google Chrome for Mobile
 
-![Advanced settings of Google Chrome for mobile devices](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680702297/tech%20assign%201/Advanced_settings_of_Google_Chrome_for_mobile_devices_z7sdo3.png)
+![Advanced settings of Google Chrome for mobile devices](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682082446/tech%20assign%201/Advanced_settings_of_Google_Chrome_for_mobile_devices_fuwx6f.png)
 
 ###  5.1. <a name='eyeglasses:Incognitomodeforprivatebrowsing'></a>:eyeglasses:Incognito mode for private browsing 
-Click on the three dots at the top right corner of your screen and choose (13) `"New Incognito Tab"` to activate the incognito mode. If you want to opt out of the incognito window, create a normal tab by clicking on `"New tab"` just above the New Incognito Tab.
+Click on the three dots at the top right corner of your screen and choose (1) `"New Incognito Tab"` to activate the incognito mode. If you want to opt out of the incognito window, create a normal tab by clicking on `"New tab"` just above the New Incognito Tab.
 
 ###  5.2. <a name='globe_with_meridians:Synchronizingdatabetweendevices'></a>:globe_with_meridians:Synchronizing data between devices 
-Go to your (14) `Google account`, then go to settings. Look for (15) `"Sync"` and click on it.  By so doing, your bookmarks, history, passwords, and other settings will be synchronized across all of your connected devices. You can turn off any option that you dont want to asynchronize.
+Go to your (2) `Google account`, then go to settings. Look for (3) `"Sync"` and click on it.  By so doing, your bookmarks, history, passwords, and other settings will be synchronized across all of your connected devices. You can turn off any option that you dont want to asynchronize.
 
 ###  5.3. <a name='wrench:Customizingyouroptionsandsettings'></a>:wrench:Customizing your options and settings
 Select `"Settings"` from the three dots at the top right corner of your screen  to modify your settings and preferences. You can modify your privacy settings, site settings, and you can also select your preferred search engine.
@@ -136,7 +136,7 @@ Try restarting the program or your device if you have problems or error messages
  Moreso, to enhance performance and battery:battery: life, remove unused tabs.
 
 ###  6.2. <a name='question:Gettinghelpandsupport'></a>:question:Getting help and support
-Click on settings, and select (16) `Help & feedback` at the bottom of the dropdown menu. Or, visit the [Google Chrome Help Center/Google support](https://support.google.com/chrome/?visit_id=638144873462949231-2028164608&hl=en&rd=2#topic=7439538) if you require extra assistance.
+Click on settings, and select `Help & feedback` at the bottom of the dropdown menu. Or, visit the [Google Chrome Help Center/Google support](https://support.google.com/chrome/?visit_id=638144873462949231-2028164608&hl=en&rd=2#topic=7439538) if you require extra assistance.
 
 ##  7. <a name='x:UninstallGoogleChromefromYourMobileDevice'></a>:x:Uninstall Google Chrome from Your Mobile Device
 You can [disable](https://support.google.com/chrome/answer/95319?co=GENIE.Platform%3DAndroid&oco=1) (for android) or [remove](https://support.google.com/chrome/answer/95319?co=GENIE.Platform%3DiOS&oco=1) (for iOS) Google Chrome from your devic. You can also delete your profile information like bookmarks and history. The data of any removed information would not be on your mibile device anymore. If you have previously signed in and synched your data, you should [clear your browsing data](https://support.google.com/chrome/answer/2392709) to remeve some information that might still be on Google's server
