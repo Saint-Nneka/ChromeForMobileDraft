@@ -130,7 +130,7 @@ Click on the three dots at the top right corner of your screen and choose (1) `N
 ###  5.2. <a name='globe_with_meridians:Synchronizingdatabetweendevices'></a>:globe_with_meridians:Synchronizing data between devices 
 Go through (3) `settings`, to access your (4) `Google account`. Look for (5) `Sync` and click on it.  By so doing, your bookmarks, history, passwords, and other settings will be synchronized across all of your connected devices. You can turn off any option that you dont want to asynchronize.
 
-###  5.3. <a name='wrench:Customizingyouroptionsandsettings'></a>:wrench:Customizing your options and settings
+###  5.3. <a name='gear:Customizingyouroptionsandsettings'></a>:gear:Customizing your options and settings
 Select `Settings` from the three dots at the top right corner of your screen  to modify your settings and preferences. You can modify your privacy settings, site settings, and you can also select your preferred search engine.
 
 ##  6. <a name='TroubleshootingGoogleChromeforMobile'></a>Troubleshooting Google Chrome for Mobile 
