@@ -78,27 +78,30 @@ After downloading, click on the `"Open"` button to start the app. Then, follow t
 ###  2.3. <a name='nut_and_bolt:SettingupGoogleChromeonYourMobile'></a>:nut_and_bolt:Setting up Google Chrome on Your Mobile
 Once the insallation is finished, you can set it up by either [creating a new account](https://support.google.com/accounts/answer/27441) or [signing in with an existing Google account](https://support.google.com/chrome/answer/185277). This will allow you to [syncronize your bookmarks, history, and other settings across all your devices.](https://support.google.com/chrome/answer/165139) 
 
-![Google chrome settings for mobile](https://res.cloudinary.com/dvwkqsotl/image/upload/v1680696141/tech%20assign%201/Google_chrome_settings_for_mobile_qluosp.png) 
+![Google chrome settings for mobile](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682932255/Photo_1682931932185_jbt0ot.png)
 
-Then, you can customize your settings and preferences by clicking on the (1) `three dots` in the top right corner of the screen by selecting (2)`"Settings."`
+
+Then, you can customize your settings and preferences by clicking on the  `three dots` in the top right corner of the screen by selecting `Settings`.
 
 ##  3. <a name='UsingGoogleChromeonyourMobileDevice'></a>Using Google Chrome on your Mobile Device!
 
-![Search, browse, return, and navigate between tabs](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682079675/tech%20assign%201/Search_browse_return_and_navigate_between_tabs_tla5qm.png)
+![Search, browse, return, and navigate between tabs](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682938082/tech%20assign%201/Search_browse_return_and_navigate_between_tabs_vrnhxl.png)
 
 ###  3.1. <a name='compass:Basicnavigationusingtheaddressbarbackbuttonandtabs'></a>:compass:Basic navigation using the address bar, back button, and tabs
 
-Use the (1) `address bar` to type in web addresses, the (2) `"<"` to return to previous pages, and (3) `tabs` to move between different web pages when using Google Chrome for Mobile. To launch a new tab, click on the (4) `"+"` button at the top right corner of the screen.
+Use the (1) `address bar` to type in web addresses, the (2)`tabs` to move between different web pages when using Google Chrome for Mobile, and (3)  `"<"` to return to previous pages. To launch a new tab, click on the (4) `"+"` button at the top right corner of the screen.
 
 ###  3.2. <a name='bookmark:Managingbookmarksandhistory'></a>:bookmark:Managing bookmarks and history
 <!-- add image to illustrate -->
-Select (5) `History` or (6) `Bookmark` from the three dots at the top right corner of the screen. From there, you can access, update, and delete your bookmarks and history.
+![Managing bookmarks and history](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682939622/tech%20assign%201/Managing_bookmarks_and_history_xz3hqn.png)
+Select `History` or `Bookmark` from the three dots at the top right corner of the screen. From there, you can access, update, and delete your bookmarks and history.
 
 ##  4. <a name='HowtobrowsetheinternetonyourphoneusingGoogleChrome'></a>How to browse the internet on your phone using Google Chrome
 
-![Browse, Resize, Manage Downloads ](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682081501/tech%20assign%201/Browse_Resize_Manage_Downloads_s2awwe.png)
 
 ###  4.1. <a name='satellite:Webpageandmultimediacontent'></a>:satellite:Web page and multimedia content 
+![Webpage and multimedia content](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682940220/tech%20assign%201/Webpage_and_multimedia_content_hun5sh.png)
+
 You can browse web pages and multimedia content using three optiions;
 1. Type the web address into the (1) `address bar` and click on it, or click `"Go"` on your mobile device. 
 1. Press and hold the (2) `microphone icon` on by the right side of your search bar, then speak into it to search with voice. Release your hold once you are done speaking so that chrome can commence your search.
@@ -108,25 +111,27 @@ You can browse web pages and multimedia content using three optiions;
 The content which you have searched up can then be viewed by scrolling through the page.
 
 ###  4.2. <a name='mag:Scrollingresizingandzoominginandout'></a>:mag:Scrolling, resizing, and zooming in and out 
-Use two of your fingers to pinch in or out on your screen to (4) `zoom in or out` on a web page. 
+
+![Google Chrome for Mobile resizing and scrolling](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682434768/tech%20assign%201/Google_Chrome_for_mobile_Zoom_in_lpe4mj.gif)
+Use two of your fingers to pinch in or out on your screen to `zoom in or out` on a web page. 
 To scroll through a page, swipe up or down on the screen.
 
 ###  4.3. <a name='file_folder:Managingdownloadsandfiletypes'></a>:file_folder:Managing downloads and file types
-Click on the three dots at the top right corner of your screen and choose (5) `"Downloads"`. Here you can access the different file types that you have downloaded. You can view, pause, continue, or cancel downloads as you wish. 
-To change your download settings, click on the `settings icon` at the top of the 'downloads' page and exploe your options.
+Click on the three dots at the top right corner of your screen and choose `Downloads`. Here you can access the different file types that you have downloaded. You can view, pause, continue, or cancel downloads as you wish. 
+To change your download settings, click on the settings :gear: icon at the top of the `downloads` page and exploe your options.
 
 ##  5. <a name='AdvancedFeaturesofGoogleChromeforMobile'></a>Advanced Features of Google Chrome for Mobile
 
-![Advanced settings of Google Chrome for mobile devices](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682082446/tech%20assign%201/Advanced_settings_of_Google_Chrome_for_mobile_devices_fuwx6f.png)
+![Advanced settings of Google Chrome for mobile devices](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682943153/tech%20assign%201/Advanced_settings_of_Google_Chrome_for_mobile_devices_gv7cgh.png)
 
 ###  5.1. <a name='eyeglasses:Incognitomodeforprivatebrowsing'></a>:eyeglasses:Incognito mode for private browsing 
-Click on the three dots at the top right corner of your screen and choose (1) `"New Incognito Tab"` to activate the incognito mode. If you want to opt out of the incognito window, create a normal tab by clicking on `"New tab"` just above the New Incognito Tab.
+Click on the three dots at the top right corner of your screen and choose (1) `New Incognito Tab` to activate the incognito mode. If you want to opt out of the incognito window, create a normal tab by clicking on (2) `New tab` just above the New Incognito Tab.
 
 ###  5.2. <a name='globe_with_meridians:Synchronizingdatabetweendevices'></a>:globe_with_meridians:Synchronizing data between devices 
-Go to your (2) `Google account`, then go to settings. Look for (3) `"Sync"` and click on it.  By so doing, your bookmarks, history, passwords, and other settings will be synchronized across all of your connected devices. You can turn off any option that you dont want to asynchronize.
+Go through (3) `settings`, to access your (4) `Google account`. Look for (5) `Sync` and click on it.  By so doing, your bookmarks, history, passwords, and other settings will be synchronized across all of your connected devices. You can turn off any option that you dont want to asynchronize.
 
 ###  5.3. <a name='wrench:Customizingyouroptionsandsettings'></a>:wrench:Customizing your options and settings
-Select `"Settings"` from the three dots at the top right corner of your screen  to modify your settings and preferences. You can modify your privacy settings, site settings, and you can also select your preferred search engine.
+Select `Settings` from the three dots at the top right corner of your screen  to modify your settings and preferences. You can modify your privacy settings, site settings, and you can also select your preferred search engine.
 
 ##  6. <a name='TroubleshootingGoogleChromeforMobile'></a>Troubleshooting Google Chrome for Mobile 
 
