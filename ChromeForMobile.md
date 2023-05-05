@@ -46,11 +46,11 @@
 
 ###  1.1. <a name='OverviewofGoogleChromeforMobile'></a>Overview of Google Chrome for Mobile
 
-[Google Chrome](https://www.google.com/chrome/) is a popular web browser that allows you to access the internet. This access is not just limited to desktop users, but also to everyone who use a mobile device like yourself. Google chrome is a popular option for mobile users because it is fast, simple to use, and has a variety of functions. This user guide will teach you the key features of Google Chrome for Mobile, and provide you with a comprehensive direction on how to use it effectively.
+[Google Chrome](https://www.google.com/chrome/) is a popular web browser that allows you to access the internet. This access is not just limited to desktop users, but also to everyone who uses a mobile device, like yourself. Google Chrome is a popular option for mobile users because it is fast, simple to use, and has a variety of functions. This user guide will teach you the key features of Google Chrome for Mobile, and provide you with comprehensive directions on how to use it effectively.
 
 ###  1.2. <a name='WhyUseGoogleChromeonYourPhone'></a>Why Use Google Chrome on Your Phone?
 <!-- referece this -->
-You always have your mobile device on you everywhere you go right? This means that if you have google chrome installed on your mobile device, you will be able to access the internet whereever you are. Google Chrome for Mobile is reliable, fast, and offers a seamless browsing experience. It also differs from other mobile browsers in a number of ways, including tab syncing, incognito mode, and gesture navigation. Moreso, a wide range of consumers can access Google Chrome for Mobile because it is available on both Android and iOS smartphones.
+You always have your mobile device with you everywhere you go, right? This means that if you have Google Chrome installed on your mobile device, you will be able to access the internet wherever you are. Google Chrome for Mobile is reliable, fast, and offers a seamless browsing experience. It also differs from other mobile browsers in a number of ways, including tab syncing, incognito mode, and gesture navigation. Moreso, a wide range of consumers can access Google Chrome for Mobile because it is available on both Android and iOS smartphones.
 
 ###  1.3. <a name='KeyFeaturesofGoogleChromeforMobile'></a>Key Features of Google Chrome for Mobile
 <!-- add reference -->
@@ -58,11 +58,11 @@ Some of the primary features of Google Chrome for Mobile include the following:
 
 **Tab synchronization:** By syncing your tabs across all of your devices, this function makes it simple to continue your activities where you left off on a different device.
 
-**Incognito mode:** You can use this tool to browse the web privately, and without leaving any traces of your previous browsing history
+**Incognito mode:** You can use this tool to browse the web privately, and without leaving any traces of your previous browsing history.
 
-**Customization options:** Google Chrome for Mobile allows you to customize your browser with themes,nand other settings.
+**Customization options:** Google Chrome for Mobile allows you to customize your browser with themes, and other settings.
 
-**Gesture navigation:** With this feature, you can navigate the browser using guesture/movements. This makes it simpler to browse the web on smaller screens.
+**Gesture navigation:** With this feature, you can navigate the browser using gestures/movements. This makes it simpler to browse the web on smaller screens.
 
 
 ##  2. <a name='HowtoGetStartedwithGoogleChromeforMobile'></a>How to Get Started with Google Chrome for Mobile
@@ -76,12 +76,12 @@ On your mobile device, go to the [Google Play Store](https://play.google.com/sto
 After downloading, click on the `"Open"` button to start the app. Then, follow the on-screen directions to finish the installation process.
 
 ###  2.3. <a name='nut_and_bolt:SettingupGoogleChromeonYourMobile'></a>:nut_and_bolt:Setting up Google Chrome on Your Mobile
-Once the insallation is finished, you can set it up by either [creating a new account](https://support.google.com/accounts/answer/27441) or [signing in with an existing Google account](https://support.google.com/chrome/answer/185277). This will allow you to [syncronize your bookmarks, history, and other settings across all your devices.](https://support.google.com/chrome/answer/165139) 
+Once the installation is finished, you can set it up by either [creating a new account](https://support.google.com/accounts/answer/27441) or [signing in with an existing Google account](https://support.google.com/chrome/answer/185277). This will allow you to [synchronize your bookmarks, history, and other settings across all your devices.](https://support.google.com/chrome/answer/165139) 
 
 ![Google chrome settings for mobile](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682932255/Photo_1682931932185_jbt0ot.png)
 
 
-Then, you can customize your settings and preferences by clicking on the  `three dots` in the top right corner of the screen by selecting `Settings`.
+Then, you can customize your settings and preferences by clicking on the  `three dots` in the top right corner of the screen and selecting `Settings`.
 
 ##  3. <a name='UsingGoogleChromeonyourMobileDevice'></a>Using Google Chrome on your Mobile Device!
 
@@ -102,13 +102,13 @@ Select `History` or `Bookmark` from the three dots at the top right corner of t
 ###  4.1. <a name='satellite:Webpageandmultimediacontent'></a>:satellite:Web page and multimedia content 
 ![Webpage and multimedia content](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682940220/tech%20assign%201/Webpage_and_multimedia_content_hun5sh.png)
 
-You can browse web pages and multimedia content using three optiions;
+You can browse web pages and multimedia content using three options:
 1. Type the web address into the (1) `address bar` and click on it, or click `"Go"` on your mobile device. 
-1. Press and hold the (2) `microphone icon` on by the right side of your search bar, then speak into it to search with voice. Release your hold once you are done speaking so that chrome can commence your search.
-1. Click on the (3) `image icon` beside the microphone on the search bar to use an image for your search. This action will take you to the gallery of your mobile device, from where you can select an image for your search. 
+1. Press and hold the (2) `microphone icon` on by the right side of your search bar, then speak into it to search with your voice. Release your hold once you are done speaking so that chrome can commence your search.
+1. Click on the (3) `image icon` beside the microphone on the search bar to use an image for your search. This action will take you to the gallery on your mobile device, from where you can select an image for your search. 
 
 
-The content which you have searched up can then be viewed by scrolling through the page.
+The content that you have searched for can then be viewed by scrolling through the page.
 
 ###  4.2. <a name='mag:Scrollingresizingandzoominginandout'></a>:mag:Scrolling, resizing, and zooming in and out 
 
@@ -117,18 +117,18 @@ Use two of your fingers to pinch in or out on your screen to `zoom in or out` o
 To scroll through a page, swipe up or down on the screen.
 
 ###  4.3. <a name='file_folder:Managingdownloadsandfiletypes'></a>:file_folder:Managing downloads and file types
-Click on the three dots at the top right corner of your screen and choose `Downloads`. Here you can access the different file types that you have downloaded. You can view, pause, continue, or cancel downloads as you wish. 
-To change your download settings, click on the settings :gear: icon at the top of the `downloads` page and exploe your options.
+Click on the three dots at the top right corner of your screen and choose `Downloads`. Here, you can access the different file types that you have downloaded. You can view, pause, continue, or cancel downloads as you wish. 
+To change your download settings, click on the settings :gear: icon at the top of the `downloads` page and explore your options.
 
 ##  5. <a name='AdvancedFeaturesofGoogleChromeforMobile'></a>Advanced Features of Google Chrome for Mobile
 
-![Advanced settings of Google Chrome for mobile devices](https://res.cloudinary.com/dvwkqsotl/image/upload/v1682943153/tech%20assign%201/Advanced_settings_of_Google_Chrome_for_mobile_devices_gv7cgh.png)
+![Advanced settings of Google Chrome for mobile devices](https://res.cloudinary.com/dvwkqsotl/image/upload/v1683200635/tech%20assign%201/Advanced_settings_of_Google_Chrome_for_mobile_devices_smyhvc.png)
 
 ###  5.1. <a name='eyeglasses:Incognitomodeforprivatebrowsing'></a>:eyeglasses:Incognito mode for private browsing 
 Click on the three dots at the top right corner of your screen and choose (1) `New Incognito Tab` to activate the incognito mode. If you want to opt out of the incognito window, create a normal tab by clicking on (2) `New tab` just above the New Incognito Tab.
 
 ###  5.2. <a name='globe_with_meridians:Synchronizingdatabetweendevices'></a>:globe_with_meridians:Synchronizing data between devices 
-Go through (3) `settings`, to access your (4) `Google account`. Look for (5) `Sync` and click on it.  By so doing, your bookmarks, history, passwords, and other settings will be synchronized across all of your connected devices. You can turn off any option that you dont want to asynchronize.
+Go through (3) `settings`, to access your (4) `Google account`. Look for (5) `Sync` and click on it.  By so doing, your bookmarks, history, passwords, and other settings will be synchronized across all of your connected devices. You can turn off any option that you don't want to synchronize.
 
 ###  5.3. <a name='gear:Customizingyouroptionsandsettings'></a>:gear:Customizing your options and settings
 Select `Settings` from the three dots at the top right corner of your screen  to modify your settings and preferences. You can modify your privacy settings, site settings, and you can also select your preferred search engine.
@@ -144,11 +144,11 @@ Try restarting the program or your device if you have problems or error messages
 Click on settings, and select `Help & feedback` at the bottom of the dropdown menu. Or, visit the [Google Chrome Help Center/Google support](https://support.google.com/chrome/?visit_id=638144873462949231-2028164608&hl=en&rd=2#topic=7439538) if you require extra assistance.
 
 ##  7. <a name='x:UninstallGoogleChromefromYourMobileDevice'></a>:x:Uninstall Google Chrome from Your Mobile Device
-You can [disable](https://support.google.com/chrome/answer/95319?co=GENIE.Platform%3DAndroid&oco=1) (for android) or [remove](https://support.google.com/chrome/answer/95319?co=GENIE.Platform%3DiOS&oco=1) (for iOS) Google Chrome from your devic. You can also delete your profile information like bookmarks and history. The data of any removed information would not be on your mibile device anymore. If you have previously signed in and synched your data, you should [clear your browsing data](https://support.google.com/chrome/answer/2392709) to remeve some information that might still be on Google's server
+You can [disable](https://support.google.com/chrome/answer/95319?co=GENIE.Platform%3DAndroid&oco=1) (for Android) or [remove](https://support.google.com/chrome/answer/95319?co=GENIE.Platform%3DiOS&oco=1) (for iOS) Google Chrome from your device. You can also delete your profile information, like bookmarks and history. The data from any removed information would not be on your mobile device anymore. If you have previously signed in and synced your data, you should [clear your browsing data](https://support.google.com/chrome/answer/2392709) to remove some information that might still be on Google's server.
 
 
 ##  8. <a name='Conclusion'></a>Conclusion
-Hopefully, you now understand why, and how you can get started with Google Chrome on your mobile device. This manual has also provided a detailed explanation of the key features of Google chrome that you can enjoy on your mobile device, and how these features are accessed and used. You can also check out the links provided in case you need extra clarification.
+By reading this piece, you now understand why, and how you can get started with Google Chrome on your mobile device. This manual has also provided a detailed explanation of the key features of Google chrome that you can enjoy on your mobile device, and how these features are accessed and used. You can also check out the links provided in case you need extra clarification.
 
 ##  9. <a name='FuturedevelopmentsandupdatesforGoogleChromeforMobile'></a>Future developments and updates for Google Chrome for Mobile
-Google Chrome continually improves and adds features to its mobile app. So, ensure that your app is always up to date so that you can enjoy the benefits of any latest developments and [updates](https://support.google.com/chrome/answer/95414).
+Google Chrome continually improves and adds features to its mobile app. So, ensure that your app is always up-to-date so that you can enjoy the benefits of any latest developments and [updates](https://support.google.com/chrome/answer/95414).
